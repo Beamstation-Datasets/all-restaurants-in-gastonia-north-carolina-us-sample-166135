@@ -1,0 +1,12 @@
+{
+  "export_job_id": "9553f95e-6638-4e42-b8b3-308b1559ba42",
+  "id_short": 166135,
+  "published_at": "2026-04-11T19:12:56Z",
+  "repo_name": "all-restaurants-in-gastonia-north-carolina-us-sample-166135",
+  "sample_asset_name": "beamstation_166135_restaurants-us-nc_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/166135/beamstation_166135_restaurants-us-nc_SAMPLE_DIST.csv",
+  "sample_records": 25,
+  "sample_sha256": "ae80759d41364b0077ae29c05d047978c96cc7a111a4336142cf407eb4796986",
+  "sample_size_bytes": 115971,
+  "total_records": 263
+}
