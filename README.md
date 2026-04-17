@@ -1,6 +1,6 @@
 # All Restaurants in Gastonia, North Carolina, US
 
-> Free BeamStation sample export with 25 rows and masked direct-contact fields.
+> Free BeamStation sample export with 28 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `166135` |
 | Location | Gastonia |
 | Category | Restaurants |
-| Full dataset size | 263 records |
-| Free sample size | 25 records (9.51%) |
-| Last export | 2026-03-31T14:54:32.657612+00:00 |
+| Full dataset size | 282 records |
+| Free sample size | 28 records (9.93%) |
+| Last export | 2026-04-14T15:28:42.293299+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-gastonia-north-carolina-us-sample-166135/releases/download/sample-latest/beamstation_166135_restaurants-us-nc_SAMPLE_DIST.csv) |
 
 ## What is in this sample
